@@ -1,4 +1,4 @@
-// The bitwise operator in js is used similar way as in V
+// The bitwise operator in js is used in a similar way as in V
 const constants = {
     banned: 1 << 0,
     user: 1 <<1,
