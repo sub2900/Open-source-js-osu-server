@@ -1,7 +1,7 @@
 // Dependencies
 const express = require('express');
 const bcrypt = require('bcrypt');
-const make_packet = require('../osustream/osu.js');
+const make_packet = require('../osustream/writer.js')
 // This represents your players data structure.
 let players = {};
 
